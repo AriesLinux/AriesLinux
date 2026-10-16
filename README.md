@@ -23,7 +23,7 @@
 😊 The real me exists too → 真实的我，也在认真生活、认真学习
 ```
 
-- 🏢 **Suituo Technology**
+- 🏢 **SUITUO Technology**
 - 📍 Based in **Hong Kong SAR**
 - 🛠️ 喜欢做**实用小工具**、**CSJ校园应用**，也喜欢做**有故事感的游戏**
 - 🤝 喜欢和 AI 一起协作，将想法与未来一步步变成现实
