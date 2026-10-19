@@ -139,7 +139,7 @@
 
 <br/>
 
-**这份 README 由 Claude 与 AriesLinux 协作完成**
+**部分项目包括此 README 皆由 Claude 与 AriesLinux 协作完成**
 
 [Claude](https://claude.ai) 是由 [Anthropic](https://www.anthropic.com) 开发的 AI 助手，擅长写作、编程、分析和日常问答 <br/>
 本页的结构及排版和文案由 Claude 起草，再由 AriesLinux 审阅并采用
